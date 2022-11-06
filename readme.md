@@ -45,7 +45,7 @@
   </a> 
     
 <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
   </a> 
     
 </P>
