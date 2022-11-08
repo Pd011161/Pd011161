@@ -21,7 +21,11 @@
 
   <a href="#">
     <img src="svg/dev/frameworks/react.svg" alt="react.svg" style="vertical-align:top; margin:6px 4px">
-  </a> 
+  </a>
+    
+  <a href="#">
+    <img src="svg/dev/frameworks/laravel.svg" alt="laravel.svg" style="vertical-align:top; margin:6px 4px">
+  </a>
     
 </p>
 
