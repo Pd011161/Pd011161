@@ -16,7 +16,7 @@
   </a> 
     
 <a href="#">
-    <img src="svg/dev/frameworks/bootstrap_larger.svg" alt="bootstrap_larger" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap.svg" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </p>
