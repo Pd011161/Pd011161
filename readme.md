@@ -57,7 +57,7 @@
   </a> 
 
 <a href="#">
-    <img src="svg/dev/languages/typescript.svg" alt="typescript" style="vertical-align:top; margin:6px 4px; width:30px;">
+    <img src="svg/dev/languages/typescript.svg" alt="typescript" style="vertical-align:top; margin:6px 4px; width:35px; border-radious:5px;">
   </a> 
     
 <a href="#">
