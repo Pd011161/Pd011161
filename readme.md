@@ -55,6 +55,10 @@
 <a href="#">
     <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a> 
+
+<a href="#">
+    <img src="svg/dev/languages/typescript.svg" alt="typescript" style="vertical-align:top; margin:6px 4px">
+  </a> 
     
 <a href="#">
     <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
