@@ -19,13 +19,13 @@
     <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-  <a href="#">
+<!--   <a href="#">
     <img src="svg/dev/frameworks/react.svg" alt="react.svg" style="vertical-align:top; margin:6px 4px">
   </a>
     
   <a href="#">
     <img src="svg/dev/frameworks/laravel.svg" alt="laravel.svg" style="vertical-align:top; margin:6px 4px">
-  </a>
+  </a> -->
     
 </p>
 
