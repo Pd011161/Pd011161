@@ -61,7 +61,7 @@
   </a> 
 
 <a href="#">
-    <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px; width:35px; border-radius: 10px;">
+    <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px"">
   </a> 
     
     
