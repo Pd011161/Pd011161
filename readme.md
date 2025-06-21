@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to see u. Welcome to my word!!!
 
-- 😄 My name is: Predee Chaiyakit, but you can call me " Com ".
+- 😄 My name is: Predee Chaiyakit, but you can call me " Com "
 - 🎓 Graduated from: Faculty of Computer Engineering
 - 💼 Current role: Data Scientist (AI)
 - 🚀 Interests: Innovation, Technology, and Artificial Intelligence
