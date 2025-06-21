@@ -1,10 +1,10 @@
 ### Hi there 👋 Nice to see u. Welcome to my word!!!
 
-😄 My name is: Predee Chaiyakit
-🎓 Graduated from: Faculty of Computer Engineering
-💼 Current role: Data Scientist (AI)
-🚀 Interests: Innovation, Technology, and Artificial Intelligence
-🤖 About me: I am passionate about exploring new advancements in tech and always eager to learn something new.
+- 😄 My name is: Predee Chaiyakit
+- 🎓 Graduated from: Faculty of Computer Engineering
+- 💼 Current role: Data Scientist (AI)
+- 🚀 Interests: Innovation, Technology, and Artificial Intelligence
+- 🤖 About me: I am passionate about exploring new advancements in tech and always eager to learn something new.
 
 ## Developer Tech
 
