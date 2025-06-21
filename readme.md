@@ -1,10 +1,10 @@
 ### Hi there 👋 Nice to see u. Welcome to my word!!!
 
-- 😄 My name is: Predee Chaiyakit
-- ⚡ Student id: 63368084
-- 🔭 I'm currently studying on Faculty of Engineering.
-- 💻 The job I'm interested in is Developer.
-- ⚙️ The subject in the Computer Engineering program that I am interested in is all about Computer Programing.
+😄 My name is: Predee Chaiyakit
+🎓 Graduated from: Faculty of Computer Engineering
+💼 Current role: Data Scientist (AI)
+🚀 Interests: Innovation, Technology, and Artificial Intelligence
+🤖 About me: I am passionate about exploring new advancements in tech and always eager to learn something new.
 
 ## Developer Tech
 
